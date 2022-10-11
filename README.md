@@ -9,6 +9,6 @@ This repository is built by following step by step guidelines from Git tutorial 
 
 Code Editor used: Notepad.
 
-#Credit
+## Credit
 Cafe Menu Design is a part of the FreeCodeCamp.com Html/CSS Tutorial
 
