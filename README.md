@@ -10,5 +10,5 @@ This repository is built by following step by step guidelines from Git tutorial 
 Code Editor used: Notepad.
 
 ## Credits
-Cafe Menu Design is a part of the FreeCodeCamp.com Html/CSS Tutorial
+Cafe Menu Design, is a part of the Html/CSS Tutorial on FreeCodeCamp.com, under the "(New) Responsive Web Design" section.
 
