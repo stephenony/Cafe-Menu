@@ -7,7 +7,7 @@ This repository is used as a practice file for the Git tutorial, on https://www.
 ## About
 This repository is built by following step by step guidelines from Git tutorial @w3schools
 
-Code Editor used: Notepad.
+Code Editor used: Notepad / freeCodeCamp code interface
 
 ## Credits
 Cafe Menu Design, is a part of the Html/CSS Tutorial on FreeCodeCamp.com, under the "(New) Responsive Web Design" section.
