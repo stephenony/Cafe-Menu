@@ -12,3 +12,6 @@ Code Editor used: Notepad.
 ## Credits
 Cafe Menu Design, is a part of the Html/CSS Tutorial on FreeCodeCamp.com, under the "(New) Responsive Web Design" section.
 
+## Live link 
+<a href="https://stephenony.github.io"> Cafe menu </a>
+
